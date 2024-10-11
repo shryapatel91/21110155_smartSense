@@ -10,10 +10,10 @@ from various sources (students, corporates and researchers) are categorized, pro
 ## Instructions:
 - Install the required libraries
 ```bash
-pip install torch transformers scikit-learn pandas numpy
+!pip install torch transformers scikit-learn pandas numpy
 ```
 
-- Run the notebook given
+- Run the notebook given in src file
 
 ## Pretrained model used for finetuning
 
